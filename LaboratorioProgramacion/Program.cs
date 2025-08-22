@@ -3,7 +3,7 @@ using System;
 
 class Program {
     static void Main() {
-        Console.WriteLine("¡Lindo Viernes para estar con Visual Studio 2022!");
+        Console.WriteLine("¡Primer cambio en el código, subiéndo a GitHub!");
     }
 }
 
